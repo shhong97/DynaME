@@ -7,3 +7,4 @@ This repository contains the pre-release code for DynaME (Dynamic Multi-period E
 
 - This implementation is built upon the [OnlineTSF framework](https://github.com/SJTU-DMTai/OnlineTSF) originally developed for PROCEED.
 - Please be aware that this version may contain redundant code used for debugging. This will be cleaned up prior to the official release.
+- To inspect the core implementation of DynaME, please refer to `dyname/dyname.py`.
