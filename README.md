@@ -1,8 +1,6 @@
 # DynaME
 
 
-### Note: Pre-release Version
-
 This repository contains the pre-release code for DynaME (Dynamic Multi-period Experts).
 
 - This implementation is built upon the [OnlineTSF framework](https://github.com/SJTU-DMTai/OnlineTSF) originally developed for PROCEED.
